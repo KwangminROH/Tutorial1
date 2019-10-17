@@ -1,3 +1,6 @@
+//For command line git Chapter3
+//Local repository modification
+
 print("Hello World")
 print("Tell your world")
 print("Tel his world")
